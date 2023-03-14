@@ -32,3 +32,4 @@ result = loaded_model.score(X_test, Y_test)
 print("==================================================")
 print("\n Score = " , result)
 
+# logistic regression
